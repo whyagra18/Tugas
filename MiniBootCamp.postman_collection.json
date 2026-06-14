@@ -1,0 +1,26 @@
+{
+  "info": {
+    "_postman_id": "5a3c8ff7-f89b-43a2-bf69-81dcf7a02ea1",
+    "name": "MiniBootCamp",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "55879717"
+  },
+  "item": [
+    {
+      "name": "New Request",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "New Request",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
